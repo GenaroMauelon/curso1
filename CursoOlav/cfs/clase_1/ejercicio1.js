@@ -1,0 +1,10 @@
+console.log("primer paso");
+console.log("abrir paquete");
+console.log("vertir harina en boul");
+console.log("mezclar con 3 huevos");
+console.log("agregar 250 ml de leche");
+console.log("mezclar hasta que la mezcla sea homogenea");
+console.log("precalentar el horno");
+console.log("enmantecar molde");
+console.log("vertir mezcla");
+console.log("hornear por 1 hora a 180 grados");
